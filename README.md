@@ -17,8 +17,9 @@ DAX (Data Analysis Expressions): To create advanced calculations and KPIs.
 Power Query Editor: For data transformation and cleaning.
 Getting Started
 To start exploring the IPL Analysis project in Power BI, follow these steps:
-##CSV LINK
-https://drive.google.com/file/d/1mhSijtmXD3g-_bIjXPBBT24qn1mJ82be/view?usp=sharing
+
+## CSV LINK
+https://drive.google.com/drive/folders/1R__BUuiicjrD34PoNl8paMWnFgsjnicE?usp=sharing
 
 ## Prerequisites
 Power BI Desktop (latest version)
